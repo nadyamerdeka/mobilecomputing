@@ -66,7 +66,7 @@ class _MyHomePageState extends State<MyHomePage> {
       children: <Widget>[ Column(
         mainAxisAlignment: MainAxisAlignment.spaceEvenly,
         children: <Widget>[
-          Container( margin: EdgeInsets.fromLTRB(0, 30, 0, 0),child:Text("MENGENANG 40 HARI ",style:TextStyle(fontSize: 30, fontWeight: FontWeight.bold)),
+          Container( margin: EdgeInsets.fromLTRB(0, 30, 0, 0),child:Text("Biodata Diri ",style:TextStyle(fontSize: 30, fontWeight: FontWeight.bold)),
           ),Center(
 
               child: Container(
@@ -98,7 +98,7 @@ class _MyHomePageState extends State<MyHomePage> {
               Text('NPM                             : 1715061010  '),
               Text('Telpon                          : 0895411455789 '),
               Text('Email                           : merdekanadya@gmail.com '),
-              Text('Alamat                          : Jalanin aja dulu nanti juga nyaman'),
+              Text('Alamat                          : Jl. Abdul Mutholib No.12'),
 
 
             ],
